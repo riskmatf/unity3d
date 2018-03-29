@@ -3,10 +3,17 @@
 ### Termin održavanja:
 - 1.4.2018. (nedelja 12h)
 
+Predavač:
+[Nemanja Mićović](http://poincare.matf.bg.ac.rs/~nemanja_micovic/)
+
+Prijave: [ovde](https://goo.gl/forms/huYebtu48CYkzxay2)
+
 ### O Unity-ju
 [Unity3d](https://unity3d.com/) je višeplatformski endžin za video igre
 razvijen od strane *Unity Technologies* koji je namenjen za
 razvoj 2d i 3d video igara i simulacija za računare, mobilne uređaje i konzole.
+
+Igre koje su razvijene u Unity-ju: [ovde](https://en.wikipedia.org/wiki/List_of_Unity_games)
 
 <img src="./readme_images/ss.jpg">
 
@@ -29,4 +36,5 @@ Preporučeno: Visual Studio Code
 - [NeoVim](https://neovim.io/) (plugin [YCM](https://github.com/Valloric/YouCompleteMe))
 - [Visual Studio Code](https://code.visualstudio.com/) (plugin [C#](https://code.visualstudio.com/docs/languages/csharp))
 - [Atom](https://atom.io/) (plugin [omnisharp-atom](https://code.visualstudio.com/docs/languages/csharp))
+- [Visual Studio](https://www.visualstudio.com/downloads/)
 - [MonoDevelop](https://www.monodevelop.com/)
