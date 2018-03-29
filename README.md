@@ -1,4 +1,8 @@
 # Unity3d
+<div style="text-align: center">
+<img style="margin: auto" src="./readme_images/risk_logo_square.png">
+<img style="margin: auto" src="./readme_images/unity.png">
+</div>
 
 ### Termin održavanja:
 - 1.4.2018. (nedelja 12h)
